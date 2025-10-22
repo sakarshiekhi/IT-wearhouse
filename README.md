@@ -1,2 +1,2 @@
 # IT-wearhouse
-IT wear house management for ABYARANCO
+IT wear house management with PHP
